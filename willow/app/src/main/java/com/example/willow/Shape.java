@@ -4,6 +4,5 @@ public abstract class Shape {
 
     int x;
     int y;
-
-    String color = "Ruby";
+    String color = "periwinkle";
 }
