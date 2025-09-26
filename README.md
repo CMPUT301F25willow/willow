@@ -1,5 +1,4 @@
 # willow
-
-**Name:** Jeanard Sinfuego
+Jeanard Sinfuego
 =================
 **CCID:** sinfuego
